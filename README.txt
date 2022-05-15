@@ -29,3 +29,8 @@ Project Structure:
 System requirement:
               Any system with DotNet SDK, and windows OS can run this game.
 
+Team members:
+- Ynno Plucena
+- Ethan
+-Jae
+-Doubra
