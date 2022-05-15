@@ -1,0 +1,15 @@
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\bin\Debug\net6.0\Hilo_game.exe
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\bin\Debug\net6.0\Hilo_game.deps.json
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\bin\Debug\net6.0\Hilo_game.runtimeconfig.json
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\bin\Debug\net6.0\Hilo_game.dll
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\bin\Debug\net6.0\Hilo_game.pdb
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\Hilo_game.csproj.AssemblyReference.cache
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\Hilo_game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\Hilo_game.AssemblyInfoInputs.cache
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\Hilo_game.AssemblyInfo.cs
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\Hilo_game.csproj.CoreCompileInputs.cache
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\Hilo_game.dll
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\refint\Hilo_game.dll
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\Hilo_game.pdb
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\Hilo_game.genruntimeconfig.cache
+C:\Users\Ynno\Desktop\School\Spring 2022\cse210\Hilo_game\obj\Debug\net6.0\ref\Hilo_game.dll
