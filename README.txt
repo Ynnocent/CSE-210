@@ -1,20 +1,31 @@
-bool win = false;
+Author: Ynno Plucena
 
-        do{
-                Console.WriteLine("Guess a number from 1 through 13: ");
-                string s = Console.ReadLine();
+Date: 5/14/22
 
-                int i = int.Parse(s);
+Title: HiLo Game
 
-                if (i > winNum) {
-                    Console.WriteLine("The number is too high. Guess lower. ");
-                }
+Description: 
+             HiLo is a card guessing game that lets the player guess the next card being either a higher or lower number based on the 
+             previous card that was presented to the player.
 
-                else if (i < winNum) {
-                    Console.WriteLine("The number is too low, guess higher. ");
+Project Structure:
+             Main()
+                Player methods
+                Cards methods
+             Player(Class)
+                Guess method
+                Change points method
+                Get points method
+                Keep playing method
+                GetRetry method
+             Cards(Class)
+                Random number generator
+                New card method
+                Display card method
+                Display Next method
+                Get card number method
+                Get old card method
+            
+System requirement:
+              Any system with DotNet SDK, and windows OS can run this game.
 
-                } else if (i == winNum) {
-                    Console.WriteLine("You guessed it");
-                    win = true;
-                }
-        } while (win==false);
